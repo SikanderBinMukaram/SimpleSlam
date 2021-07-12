@@ -8,9 +8,9 @@ Visual Slam implementation for practise. Used orb features (Akaze can also be us
 * [NumPy](https://numpy.org/)
 
 ## To-do
-1. Triangulation
-2. pangolin for 3-D display
-3. g2opy for optimization
+* Triangulation
+* pangolin for 3-D display
+* g2opy for optimization
 
 ## Acknowledgements
 * [GeoHotz](https://github.com/geohot)
